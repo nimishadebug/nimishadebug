@@ -1,15 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"/>
 
-**nimishadebug/nimishadebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All about me is at my website.
+- 📝 Sometimes I write articles on [Medium](https://medium.com/).
+- 💬 Ask me about var topics = [ "JavaScript", "HTML", "React", "CSS" ]
+- 📫 How to reach me dubeynimisha9@gmail.com
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing).
 
-Here are some ideas to get you started:
+What are my featured projects❓🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```100DaysOfCode⌛```
+
+```BugTracker🐛```
+
+```TwitterBot🤖```
