@@ -1,4 +1,4 @@
-### Hi there ![Alt Text]("https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" height="40")    
+### Hi there ![Alt Text](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif = 40*40)    
 
 **nimishadebug/nimishadebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
