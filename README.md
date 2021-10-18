@@ -34,7 +34,7 @@ Connect with me:
 
 Languages and Tools:
 
-<img src="" width="40" height="40">
+<img src="https://cdn1.iconfinder.com/data/icons/flat-and-simple-part-1/128/bootstrap-512.png" width="40" height="40">  <img src="https://cdn3.iconfinder.com/data/icons/file-extension-11/512/css-file-extension-format-digital-512.png" width="40" height="40">   <img src="https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Html-512.png" width="40" height="40">   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="40" height="40">   <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" width="40" height="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40">    <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40" height="40">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">  <img src="" width="40" height="40">   
                 
              
 
