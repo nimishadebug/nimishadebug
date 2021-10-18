@@ -1,5 +1,5 @@
 ### Hi there    
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="250" height="250"/>
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"/>
 
 **nimishadebug/nimishadebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
