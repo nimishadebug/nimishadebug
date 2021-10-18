@@ -1,6 +1,5 @@
-### Hi there 👋 https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif
-
-<!--
+### Hi there ![Alt Text](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)    
+-
 **nimishadebug/nimishadebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
