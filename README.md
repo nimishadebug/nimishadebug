@@ -20,5 +20,5 @@ What can I help with❓🌀
 
 Connect with me:
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=29686102&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=63512488&left_color=green&right_color=red)
 
