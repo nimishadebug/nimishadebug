@@ -13,3 +13,12 @@ What are my featured projects❓🚀
 ```BugTracker🐛```
 
 ```TwitterBot🤖```
+
+What can I help with❓🌀
+
+```git commit -m "All about GitHub!" 😁```
+
+Connect with me:
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=29686102&left_color=green&right_color=red)
+
