@@ -18,8 +18,12 @@ What can I help with❓🌀
 
 ```git commit -m "All about GitHub!" 😁```
 
-Connect with me:
+Stats:
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=63512488&left_color=green&right_color=red)
 
 ![Nimisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimishadebug&theme=dark&show_icons=true)
+
+Connect with me:
+
+[![codepen](https://camo.githubusercontent.com/a79c8028a36e9021ee36a97ea7c8077f69d5f1296d48ec593e95cfa6db33e2a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f646570656e2e737667)][1]
