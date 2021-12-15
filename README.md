@@ -24,7 +24,8 @@ What can I help with❓🌀
 Stats:
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=63512488&left_color=green&right_color=red)
- ![visitors](https://komarev.com/ghpvc/?username=nimishadebug)
+ 
+ ![Profile Views](https://komarev.com/ghpvc/?username=nimishadebug)
 
 
 ![Nimisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimishadebug&theme=dark&show_icons=true)
